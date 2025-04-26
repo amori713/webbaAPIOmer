@@ -12,7 +12,7 @@ using webbaAPIOmer.Data;
 namespace webbaAPIOmer.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250425133947_InitialCreate")]
+    [Migration("20250426220121_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
